@@ -8,10 +8,6 @@ EXPECTED ROWS: 8,950
 IMPORTANT:
 - This script is designed for the existing cleaned table.
 - It does not drop, truncate, or overwrite tables.
-- Run analytical SELECT sections as needed; running the script again is not
-  required if you already executed the queries successfully.
-- Descriptive patterns are not causal conclusions or credit-risk classifications.
-*/
 
 USE credit_card_project;
 
